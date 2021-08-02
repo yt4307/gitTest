@@ -4,4 +4,4 @@ compiler: g++
 
 script:
 - g++ test.cpp -o compiletest
-- ./compioletest
+- ./compiletest
