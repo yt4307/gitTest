@@ -3,5 +3,5 @@ language: cpp
 compiler: g++
 
 script:
-- g++ 韹办紦瓿勳偘.cpp -o 韹办紦瓿勳偘
-- ./韹办紦瓿勳偘
+- g++ 萍南拌魂.cpp -o 萍南拌魂
+- ./萍南拌魂
