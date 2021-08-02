@@ -1,7 +1,7 @@
-before_install: cd buildTest
+﻿before_install: cd buildTest
 language: cpp
 compiler: g++
 
 script:
-- g++ Ƽ�ϰ��.cpp -o Ƽ�ϰ��
-- ./Ƽ�ϰ��
+- g++ 티켓계산.cpp -o 티켓계산
+- ./티켓계산
