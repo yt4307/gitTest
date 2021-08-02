@@ -1,4 +1,3 @@
 before_script: cd buildTest
-install: make get-deps
 language: cpp
 compiler: g++
