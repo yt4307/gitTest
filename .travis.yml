@@ -1,0 +1,7 @@
+before_install: cd buildTest
+language: cpp
+compiler: g++
+
+script:
+- g++ test.cpp -o testcomplie
+- ./testcomplie
