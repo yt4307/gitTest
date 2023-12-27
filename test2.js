@@ -1,1 +1,1 @@
-console.log("push test");
+console.log("push");
